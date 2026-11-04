@@ -43,7 +43,7 @@
 Géza's top 5:
 
 1. [Gólya](https://maps.app.goo.gl/EdGoqv8mk3cnbu5t5) - See the program ideas for more, this is the best pub in Budapest imo.
-2. [Auróra](https://maps.app.goo.gl/mVMaSz2mDEMjeoAA9) - Has a permaculture garden, left wing activist place, atmospheric.
+2. Auróra unfortunately closed :(
 3. [Susuka](https://maps.app.goo.gl/nr5aEnDe7E5yQDYM7) - Not many people know this one. It's a small pub that mainly attracts alternative folks. 
 4. [Élesztő](https://maps.app.goo.gl/w79ce1h1CrPkNLeCA) - This one is less of an alter pub, and more expensive, but you can drink great craftbeers here.
 5. [Zuzmó](https://maps.app.goo.gl/eakqiSG4UPtCHjdJ6) - A friendly, relatively new place, close to our accommodation. 
