@@ -1,12 +1,3 @@
----
-title: Info
-media_order: 'budapest2.jpg,thermal.jpg,golya.webp,grandboulevard.webp,grafika.jpg,csepel_muvek.jpg,chinatown.jpg,dune2.jpg,nehru.jpg,jo_reggelt.mp3,capuccinot.mp3,elnezest.mp3,fizetnek.mp3,jonapot.mp3,nembeszelekmagyarul.mp3,nemkerem.mp3,szia.mp3,viszlat.mp3,egeszsegedre.mp3,egykorsot.mp3,joestet.mp3,kerem.mp3,koszonom.mp3,kulonfizetunk.mp3,sziasztok.mp3,koszonom2.mp3,egi.mp3,macskarugja.mp3,The_Pirate_Bay_logo.svg,budapest_schedule.png'
-body_classes: 'title-center title-h1h2'
-process:
-    markdown: true
-    twig: true
----
-
 ![budapest2](budapest2.jpg "budapest2")
 
 ![budapest_schedule](budapest_schedule.png "budapest_schedule")
@@ -98,234 +89,59 @@ Phrase of the day: _macskajaj_ - hangover, but the literal translation would be 
 
 Here are some drama and sci-fi films from recent years. There's a link to the Filmio page (a Hungarian movie platform), where you can subscribe for a small monthly fee (2.75 CHF) or rent individual movies for around 1.5 CHF. But I suppose you might be able to find them elsewhere too.
 
-( ![The_Pirate_Bay_logo](The_Pirate_Bay_logo.svg?resize=40,40&brightness=10) )
+https://www.youtube.com/embed/F5XeXNFNHQA
+An animated sci-fi film set in Budapest in the year 2123. Climate change has almost completely destroyed the planet, and the remaining survivors live in specially designed cities.
 
-<iframe src="https://www.youtube.com/embed/F5XeXNFNHQA" title="WHITE PLASTIC SKY - Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-An animated sci-fi film set in Budapest in the year 2123. Climate change has almost completely destroyed the planet, and the remaining survivors live in specially designed cities. It’s available on [Prime](https://www.primevideo.com/-/de/detail/White-Plastic-Sky/0RB3XYGIPCIBBDJF4853TEHGUK), but unfortunately without subtitles :( It’s also on Filmio, still no English subs tho.
-
-<iframe src="https://www.youtube.com/embed/5dOZpivfNxw" title="Ruben Brandt, Collector | Official US Trailer (2018)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/5dOZpivfNxw
 Ruben Brandt, Collector: Unique art style, interesting story, many art references. One of the best movies recently from Hungary. [Watch Online with eng subtitles](https://filmio.hu/film/ruben-brandt-a-gyujto-11512687)
 
-<iframe src="https://www.youtube.com/embed/EhVI0DvQY3o" title="Hat hét (12) - Március 23-tól a mozikban // Teljes trailer, előzetes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/EhVI0DvQY3o
 Hat hét: Zsófi, the defiant teenager, gives up her newborn daughter through open adoption, but doubts begin to arise within her body and soul. According to Hungarian law, she has six weeks to change her mind. The title is a play of words, hat means six hét means seven (oh, but you already know this, right?) but hét also means week. [Watch Online with eng subtitles](https://filmio.hu/film/hat-het-14404196)
 
-<iframe src="https://www.youtube.com/embed/DOmnKLKoWZw" title="LARRY | Trailer | English Subs | 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/DOmnKLKoWZw
 Larry - It tells the story of Adam who lives in isolation due to his stuttering, and hip-hop is the only way he can get rid of his speech impediment. [Watch Online with eng subtitles](https://filmio.hu/film/larry-13640523)
 
-<iframe src="https://www.youtube.com/embed/Y1ggiLfxL2c" title="Háromezer számozott darab (16) előzetes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/Y1ggiLfxL2c
 Three Thousand Numbered Pieces: A white Hungarian director rehearses a play with five young Roma actors. His play tells their real-life stories of abuse, drug addiction, and crime. However, instead of representing the truth of their experiences, it only capitalizes on their pain and exploits them.
 [Watch Online with eng subtitles](https://filmio.hu/film/haromezer-szamozott-darab-14006927)
 
-<iframe src="https://www.youtube.com/embed/N1gQ3eZCH8w" title="LIZA, A RÓKATÜNDÉR (Official trailer HD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/N1gQ3eZCH8w
 Liza, the Fox-Fairy: Liza is a 30-year-old, naïve, lonely nurse living in "Csudapest", the capital of a fictionalized 1970s Hungary with a capitalist system.  Liza is convinced that she has become a fox-fairy, a demon from Japanese mythology. According to the legend, men who fall in love with a fox-fairy die soon afterwards, and the fox-fairy is doomed to be alone forever... Sorry, I don't know where you can watch it online :(. 
 
 ---
 
 **Some Hungarian music for getting in the mood:**
 
-<iframe src="https://www.youtube.com/embed/P70feiZAOPI" title="Deva - Witchcraft (Official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/P70feiZAOPI
 Deva is like a modern day witch, fusing Hungarian folk songs with electronic music.  In 2022 she received the Music Moves Europe Award, becoming one of the few internationally recognized Hungarian musicians.
 
-<iframe src="https://www.youtube.com/embed/MDO0kSSIf4I" title="Anima Sound System - Tekerd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/MDO0kSSIf4I
 Anima Sound System – Tekerd. One of the first Hungarian electronic music bands, they played acid-jazz and caused controversy in the media by [remixing the national anthem.](https://www.youtube.com/watch?v=RJs7h8rszRU&t=1386s) 
 
-<iframe src="https://www.youtube.com/embed/ZYNzzy_G4Qw?list=OLAK5uy_mAwL_St94VPA_V6w8iW2x2aCkDWCIFFzk" title="We Plants Are Happy Plants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/ZYNzzy_G4Qw?list=OLAK5uy_mAwL_St94VPA_V6w8iW2x2aCkDWCIFFzk
 We Plants Are Happy Plants - We Plants Are Happy Plants. The guy is like the Hungarian edition of Vangelis, playing Chillstep / Progressive Trance.
 
-<iframe src="https://www.youtube.com/embed/7YKoOD-eozg" title="Freakin&#39; Disco - Fox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/7YKoOD-eozg
 Freakin’ Disco - Fox. They play instrumental electronic music and also won some international prizes. 
 
-<iframe src="https://www.youtube.com/embed/CGt-rTDkMcM" title="Omega - Gyöngyhajú lány" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/CGt-rTDkMcM
 Omega - Gyöngyhajú lány. Omega used to be the Hungarian Beatles, this is their most popular song. You might have heared it [in New Slaves](https://youtu.be/vQ0u09mFodw?t=172) as Kanye West decided to use it without permission.  
 
-<iframe src="https://www.youtube.com/embed/fbPHLB4K7pE" title="Bohemian Betyars - Ellentétek Balladája // Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/fbPHLB4K7pE
 Bohemian Betyars - Az ellentétek balladája. Hungarian Folk Punk band. The lyrics is a poem from [François Villon: Ballade du concours de Blois](https://www.bonjourpoesie.fr/lesgrandsclassiques/Poemes/fran%C3%A7ois_villon/ballade_du_concours_de_blois)
 
 
-<iframe src="https://www.youtube.com/embed/xQNXU2XX79Y" title="Parno Graszt - A Muki fia / Son Of Muki" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/xQNXU2XX79Y
 Parno Graszt - Muki fia. Arguably the most famous contemporary Gypsy band. 
 
-<iframe src="https://www.youtube.com/embed/zxxxu2IbnWU" title="Kispál és a Borz - Csillag vagy fecske" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/zxxxu2IbnWU
 Kispál és a Borz - Csillag vagy fecske. This is quite an old song, this band was the pioneer of the current hungarian alternative music scene.
 
-<iframe src="https://www.youtube.com/embed/Lh9CKfMfD3E" title="Péterfy Bori &amp; Love Band - Oázis (Osztódással Szaporodó Szövegvideó)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/Lh9CKfMfD3E
 Péterfy Bori - Oázis. Hungarian pop music, the singer's whole persona that she is hot.
 
-<iframe src="https://www.youtube.com/embed/_MZ4eFEP9pg" title="Margaret Island - Engedd, hogy szabad legyek (HIVATALOS VIDEOKLIP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/_MZ4eFEP9pg
 Margaret Island - Engedd, hogy szabad legyek. Hungarian poppy alter. The lyrics sound like a love song, but it is actually about democracy.
-
----
-
-**Hungarian language pack:**
-
-Here are some fun facts and useful expressions that you can use to impress the locals.
-
-**Counting:**
-
-This song is unquestionably the best learning material to learn numbers 1-10. It randomly became a meme a few years ago, there are [remix versions like this](https://www.youtube.com/watch?v=WRqSFU346po), or this [super cute one](https://www.youtube.com/watch?v=HzWN-co2d_U). Singing makes learning easier:
-
-<div class="video-container">
-  <iframe 
-    src="https://www.youtube.com/embed/kXQ8WR5zRnE" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
-<script async src="//www.instagram.com/embed.js"></script>
-
-  🐴🐴🐴
-
-**Greetings:**
-
-
-<div class="audio-player">
-   Jó reggelt (kívánok)!	[ˈjoː ˈrɛɡːɛlt ˈkiːvaːnok] ) Good morning 
-    <audio id="joreggelt" src="/user/pages/01.home/jo_reggelt.mp3"></audio>
-</div>
-<button onclick="document.getElementById('joreggelt').play()">▶ Jó reggelt kívánok (G)</button>
- 
-
-<div class="audio-player">
-   Jó napot (kívánok)!	[ˈjoː ˈnɒpot] ( [ˈkiːvaːnok] )	Good day
-    <audio id="jonapot" src="/user/pages/01.home/jonapot.mp3"></audio>
-</div>
-<button onclick="document.getElementById('jonapot').play()">▶ Jó napot kívánok (M)</button>
-
-
-<div class="audio-player">
-Jó estét (kívánok)!	[ˈjoː ˈɛʃteːt] ( [ˈkiːvaːnok] )	Good evening 
-    <audio id="joestet" src="/user/pages/01.home/joestet.mp3"></audio>
-</div>
-<button onclick="document.getElementById('joestet').play()">▶ Jó estét kívánok (G)</button>
-
-<div class="audio-player">
-   Szia!	[ˈsiɒ]	Hi / Bye (informal, singular)
-    <audio id="szia" src="/user/pages/01.home/szia.mp3"></audio>
-</div>
-<button onclick="document.getElementById('szia').play()">▶ Szia (M)</button>
-
-<div class="audio-player">
-Sziasztok!	[ˈsiɒstok]	Hi / Bye (to more people)
-    <audio id="sziasztok" src="/user/pages/01.home/sziasztok.mp3"></audio>
-</div>
-<button onclick="document.getElementById('sziasztok').play()">▶ Sziasztok (G)</button>
-
-
-<div class="audio-player">
-   Viszontlátásra	[ˈvisontˌlaːtaʃrɒ]	Goodbye (or in short: Viszlát! [ˈvislaːt])
-    <audio id="viszlat" src="/user/pages/01.home/viszlat.mp3"></audio>
-</div>
-<button onclick="document.getElementById('viszlat').play()">▶ Viszontlátásra / Viszlát (M)</button>
-
- 👋 👋 👋
-
-**At a restaurant:**
-
-
-<div class="audio-player">
-Kérem	[ˈkeːrɛm]	Please 
-    <audio id="kerem" src="/user/pages/01.home/kerem.mp3"></audio>
-</div>
-<button onclick="document.getElementById('kerem').play()">▶ Kérem (G)</button>
-
-
-<div class="audio-player">
-Nem kérem.	[ˈnɛm ˌkeːrɛm]	I don’t want (that)
-    <audio id="nemkerem" src="/user/pages/01.home/nemkerem.mp3"></audio>
-</div>
-<button onclick="document.getElementById('nemkerem').play()">▶ Nem kérem (M)</button>
-
-
-<div class="audio-player">
-Köszönöm (szépen).	[ˈkøsøˌnøm] ( [ˈseːpɛn] )	Thank you (very much)
-    <audio id="kosz" src="/user/pages/01.home/koszonom2.mp3"></audio>
-</div>
-<button onclick="document.getElementById('kosz').play()">▶ Köszönöm szépen (G)</button>
-
-
-<div class="audio-player">
-Elnézést (kérek).	[ˈɛlneːzeːʃt] ( [ˈkeːrɛk] )	Excuse me / Sorry
-    <audio id="elnezest" src="/user/pages/01.home/elnezest.mp3"></audio>
-</div>
-<button onclick="document.getElementById('elnezest').play()">▶ Elnézést kérek (M)</button>
-
-
-<div class="audio-player">
-Külön fizetünk.	[ˈkyløn ˈfizɛtyːŋk]	We’ll pay separately
-    <audio id="kulon" src="/user/pages/01.home/kulonfizetunk.mp3"></audio>
-</div>
-<button onclick="document.getElementById('kulon').play()">▶ Külön fizetünk (G)</button>
-
-
-
-<div class="audio-player">
-   Fizetni szeretnék.	[ˈfizɛtni ˌsɛrɛtnɛːk]	I’d like to pay
-    <audio id="fizetnek" src="/user/pages/01.home/fizetnek.mp3"></audio>
-</div>
-<button onclick="document.getElementById('fizetnek').play()">▶ Fizetni szeretnék (M)</button>
-
-
-<div class="audio-player">
-Egy korsó sört kérek.	[ˈɛɟ ˌkorʃoː ˈʃørt ˌkeːrɛk]	A pint of beer, please.
-    <audio id="korsot" src="/user/pages/01.home/egykorsot.mp3"></audio>
-</div>
-<button onclick="document.getElementById('korsot').play()">▶ Egy korsó sört kérek (G)</button>
-
-<div class="audio-player">
-   Egy capuccinót kérek zabtejjel.	[ˈɛɟ ˌt͡ʃɒput͡ʃiːnoːt ˌkeːrɛk ˈzɒbtɛjːɛl]	A cappuccino with oat milk, please.
-    <audio id="cappucinot" src="/user/pages/01.home/capuccinot.mp3"></audio>
-</div>
-<button onclick="document.getElementById('cappucinot').play()">▶ Egy capuccinót kérek zabtejjel (M)</button>
-
-<div class="audio-player">
- Egészségedre!	[ˈɛɡeːʃːeːɡɛdrɛ]	Cheers! / Bless you!
-    <audio id="egi" src="/user/pages/01.home/egi.mp3"></audio>
-</div>
-<button onclick="document.getElementById('egi').play()">▶ Egészségedre (G)</button>
-
-<div class="audio-player">
-Nem beszélek magyarul.	[ˈnɛm ˌbɛsɛlɛk ˈmɒɟɒrul]	I don’t speak Hungarian
-    <audio id="nembeszelek" src="/user/pages/01.home/nembeszelekmagyarul.mp3"></audio>
-</div>
-<button onclick="document.getElementById('nembeszelek').play()">▶ Nem beszélek magyarul (M)</button>
-
-<div class="audio-player">
-Hogy a macska rúgja meg! [ˈhoɟ ɒ ˈmɒt͡ʃkɒ ˈruːgjɒ ˈmɛɡ]	I wish the cat kicked it - see swearing section
-    <audio id="macska" src="/user/pages/01.home/macskarugja.mp3"></audio>
-</div>
-<button onclick="document.getElementById('macska').play()">▶ Hogy a macska rúgja meg! (M)</button>
-
-🐈🐈🐈 
-
-**Duzen oder Siezen?**
-
-This is just a fun fact about informal/formal speech in Hungarian. The German concept is closer to it's Hungarian usage, so let's see the examples in German. There is 1 form of 'Duzen', but you can 'Siezen' at least in 3 (!!) different ways:
-- Mit gondolsz? (Was denkst du?) - speaking with friends and people around your age or younger than you. 
-- Mit gondol? (Was denken sie?) - sounds neutral, using a common feature of Hungarian: [pronouns are often omitted because the subject is clear from the verb conjugation.](http://www.hungarianreference.com/Pronouns/omitting-keeping-pronouns.aspx?ForceDesktop=1) 
-- Mit gondol ön? (Was denken sie?) - sounds official, respectful
-- Mit gondol maga? (Was denken sie?) - "Maga" is often used in a less than polite or slightly confrontational way. In this case it's not necessarily rude, but not polite either. Funny enough, the letters are the same as in the abbreviation for "Make America Great Again."
-
-You can safely use any of the sentences from the previous sections. 'Egészségedre' has a formal version, but let's not make our life harder.
-
-**Swearing:**
-
-Hungarian swearing culture is known for its broad and colorful expressions. Swearing is used to express frustration and anger, some of them are light (“I wish the cat kicked it!”, “Backwards with the greyhounds!” or "That brass angel whistling on a copper tree!") and there are pretty rude ones ("May God strike you", "To the whore of a life!" or "May I place you next to the funeral chapel."). The most common ones you will probably hear:
-
-faszom [ˈfɒsom] - Fuck it. Literally means "my dick", but you can use it reagardless of your gender.
-
-bazdmeg [ˈbɒzdmɛɡ] - Fuck / Scheiße, It’s a versatile swear word that Hungarians use like seasoning.
-
-kurva [ˈkurvɒ] - it is used to emphasize something, literally means whore. e.g. 'kurva életbe' - fuck life (you don't like what's happening)  
-
-Here's a video for illustration. Note that the swearing is a bit excessive here, but it comes so genuinely and fluently from the person - who's accidentally recording his neighbour's house collaping - that it's a bit funny for native speakers, as if this was a parody of how often we swear.
-
-<div style="display: flex; justify-content: center;">
-  <blockquote class="instagram-media" 
-    data-instgrm-permalink="https://www.instagram.com/reel/DJLulfcsXE8/" 
-    data-instgrm-version="14" 
-    style="background:#FFF; border:0; margin: 1em auto; max-width:540px; width:100%;">
-  </blockquote>
-</div>
 
 ---
 
