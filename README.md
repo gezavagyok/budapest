@@ -1,7 +1,5 @@
 ![budapest2](budapest2.jpg "budapest2")
 
-🏠 [1083 Budapest, Práter utca 24.](https://maps.app.goo.gl/reNrnG5XcAY845Fo7)
-
 🚌 **Public transport:** <a href="https://play.google.com/store/apps/details?id=hu.webvalto.bkkfutar&pcampaignid=web_share">Android version</a> | [iOS version](https://apps.apple.com/hu/app/budapestgo/id916193835)
 
 
